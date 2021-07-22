@@ -10,7 +10,7 @@ import pandas as pd
 
 
 def create_expected_zip(directory):
-    """Assemble the csv files created by the export macro into an expected_zip.zip file.
+    """Assemble the csv files created by the export macro into an expected.zip file.
     `directory`: where to find the csv files, and put the result.
     """
     directory = pathlib.Path(directory)
