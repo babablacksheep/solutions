@@ -6,7 +6,7 @@
 
 The Drawdown solution models are, at their core, economic models which estimate the total global and regional demand for each solution and the percentage of that demand each year which might adopt the Drawdown solution. The monetary and emissions impacts of that adoption are then calculated.  The framework and methodology for the model was developed by a core research team at Project Drawdown with senior research fellows and visiting researchers from each of the relevant solution domains, over the course of a number of years. The models were originally constructed in some ~80 Excel files.
 
-This repository is a conversion of the original Excel models into python.  This includes both the analytical parts of the model, and the summary data used to produce key results. Kunal
+This repository is a conversion of the original Excel models into python.  This includes both the analytical parts of the model, and the summary data used to produce key results.
 Our goal is to enable:
    + ongoing research by Project Drawdown and other researchers
    + use of this research in other projects, including a broader audience of policy makers, business leaders, and other interested parties.
