@@ -110,7 +110,7 @@
         "EU": 0.0,
         "USA": 0.0
     },
-    "soln_pds_adoption_custom_name": "40% Adoption in 2014, 2.75% building stock retrofit rate",
+    "soln_pds_adoption_custom_name": "2.75% building stock retrofit rate",
     "soln_pds_adoption_scenarios_included": [
         0,
         1,
